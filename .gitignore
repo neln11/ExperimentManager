@@ -1,0 +1,20 @@
+# build files
+build/
+*.o
+*.out
+*.exe
+
+# compiled binaries
+experiment_manager
+experiment_manager_*
+a.out
+
+# local data
+*.CSV
+
+# editor files
+.vscode/
+.idea/
+
+# system files
+.DS_Store
