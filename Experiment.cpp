@@ -265,7 +265,7 @@ void modifyExperiment(vector <Experiment>& experiments) {
     cout << "Target SR: " << exp.targetSR << endl;
     cout << "备注: " << exp.note << endl;
 
-     cout << endl;
+    cout << endl;
     cout << "请选择要修改的字段：" << endl;
     cout << "1. 实验名称" << endl;
     cout << "2. 模型名称" << endl;
